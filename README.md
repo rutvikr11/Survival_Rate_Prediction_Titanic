@@ -1,0 +1,2 @@
+# Survival_Rate_Prediction_Titanic
+First Kaggle Competition
